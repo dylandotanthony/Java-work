@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+containerz{
+	width: 500px;
+	height: 500px;
+	padding: 20px;
+	background-color: red;
+	
+}
+contentz{
+	justify-content:center;
+}
